@@ -106,10 +106,21 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  # _experiences
+  - scope:
+      path: "_experiences"
+      type: experiences
+    values:
+      layout: single
+      author_profile: false
+      share: true
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+collections:
+  experiences:
+    output: true
+    permalink: /:collection/:path/
