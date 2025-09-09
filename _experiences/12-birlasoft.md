@@ -1,5 +1,5 @@
 ---
-title: "Birlsoft (India) Pvt Ltd, Chennai"
+title: "Birlasoft (India) Pvt Ltd, Chennai"
 layout: single
 ---
 
