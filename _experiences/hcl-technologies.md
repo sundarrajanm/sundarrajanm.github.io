@@ -1,5 +1,6 @@
 ---
 title: "HCL Technologies, CISCO, Chennai"
+start_date: 2005-07-25
 layout: single
 ---
 

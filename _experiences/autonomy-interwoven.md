@@ -1,5 +1,6 @@
 ---
 title: "Autonomy Interwoven, Bangalore"
+start_date: 2008-07-28
 layout: single
 ---
 
