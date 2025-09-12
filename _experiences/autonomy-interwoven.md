@@ -1,7 +1,9 @@
 ---
-title: "Autonomy Interwoven, Bangalore"
+title: "Autonomy Interwoven"
 start_date: 2008-07-28
 layout: single
+role: Senior Software Engineer
+location: Bengaluru
 ---
 
 ### TeamSite (CSSDK)  

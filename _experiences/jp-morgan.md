@@ -1,7 +1,9 @@
 ---
-title: "J.P.Morgan, Bangalore"
+title: "J.P.Morgan, Bengaluru"
 start_date: 2010-04-12
 layout: single
+location: Bengaluru
+role: Application Developer
 ---
 
 ### Investment Banking (Credit Risk Infrastructure)  

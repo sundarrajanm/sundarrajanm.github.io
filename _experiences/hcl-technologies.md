@@ -1,7 +1,9 @@
 ---
-title: "HCL Technologies, CISCO, Chennai"
+title: "HCL Technologies, CISCO"
 start_date: 2005-07-25
 layout: single
+role: Member Technical Staff
+location: Chennai
 ---
 
 ### Cisco Access Registrar  

@@ -1,7 +1,9 @@
 ---
-title: "Birlasoft (India) Pvt Ltd, Chennai"
+title: "Birlasoft (India) Pvt Ltd"
 start_date: 2007-09-26
 layout: single
+role: Software Engineer
+location: Chennai
 ---
 
 ### Mortgage Application (PENTA)  

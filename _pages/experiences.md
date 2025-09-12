@@ -4,11 +4,31 @@ layout: collection
 permalink: /experiences/
 ---
 
-Here’s a summary of my professional experience across various organizations:
+Below is a detailed summary of my professional experience across various organizations:
 
-{% assign sorted_experiences = site.experiences | sort: 'start_date' | reverse %}
-<ul>
+{% assign sorted_experiences = site.experiences | sort: 'start_date' %}
+
+<table>
+<tr>
+  <th>
+    Started
+  </th>
+  <th>
+    Role
+  </th>
+  <th>
+    Organisation
+  </th>
+  <th>
+    Location
+  </th>
+</tr>
   {% for experience in sorted_experiences %}
-    <li><a href="{{ experience.url }}">{{ experience.title }} - {{ experience.start_date | date: "%b %Y" }}</a></li>
+    <tr>
+      <td> {{ experience.start_date | date: "%b %Y" }} </td>
+      <td> {{ experience.role }} </td>
+      <td> <a href="{{ experience.url }}">{{ experience.title }}</a> </td>
+      <td> {{ experience.location }} </td>
+    </tr>
   {% endfor %}
-</ul>
+</table>
