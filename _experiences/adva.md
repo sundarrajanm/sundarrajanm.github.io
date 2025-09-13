@@ -1,5 +1,5 @@
 ---
-title: "ADVA Optical Networking, Bengaluru"
+title: "ADVA Optical Networking"
 start_date: 2016-07-01
 layout: single
 location: Bengaluru

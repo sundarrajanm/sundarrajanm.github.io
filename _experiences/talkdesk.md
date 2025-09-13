@@ -1,5 +1,5 @@
 ---
-title: "Talkdesk India Private Limited, Bengaluru"
+title: "Talkdesk India Private Limited"
 start_date: 2024-10-07
 layout: single
 location: Bengaluru

@@ -1,5 +1,5 @@
 ---
-title: "TESCO, Bengaluru"
+title: "TESCO"
 start_date: 2017-12-15
 layout: single
 location: Bengaluru

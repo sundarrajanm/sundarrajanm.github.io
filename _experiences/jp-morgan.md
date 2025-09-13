@@ -1,5 +1,5 @@
 ---
-title: "J.P.Morgan, Bengaluru"
+title: "J.P.Morgan"
 start_date: 2010-04-12
 layout: single
 location: Bengaluru

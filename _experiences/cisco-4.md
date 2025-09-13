@@ -1,5 +1,5 @@
 ---
-title: "Cisco Systems India Pvt Ltd, Bengaluru"
+title: "Cisco Systems India Pvt Ltd"
 start_date: 2018-10-01
 layout: single
 location: Bengaluru

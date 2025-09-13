@@ -1,5 +1,5 @@
 ---
-title: "ThoughtWorks India Pvt Ltd, Bengaluru"
+title: "ThoughtWorks India Pvt Ltd"
 start_date: 2021-08-01
 layout: single
 location: Bengaluru

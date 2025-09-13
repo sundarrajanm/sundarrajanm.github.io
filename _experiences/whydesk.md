@@ -1,5 +1,5 @@
 ---
-title: "Whydesk Technologies Private Ltd, Bengaluru"
+title: "Whydesk Technologies Private Ltd"
 start_date: 2017-01-01
 layout: single
 location: Bengaluru
