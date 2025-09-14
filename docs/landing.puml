@@ -1,0 +1,9 @@
+@startmindmap
+-[#lightgreen] <b>VALUE BUILDING</b>\n<b>   FRAMEWORK</b>
+--[#LightYellow] Stake Holders
+--- <b>Excited</b>, about growth plans! 🤩\n<b>Happy</b>, to see the progress! 🥳
+--[#LightYellow] Customers
+--- <b>Wanting</b> products that,\n<b>Solves</b> the problem right!\n<b>Always available</b> to solve it!\nand <b>excitingly! ♥️</b>
+++[#LightYellow] Engineers
++++ <b>Curious and Quality</b> driven engineers: \n<b>- Customer-focused 🤗</b>\n<b>- Feedback-ready 🙇</b>\n<b>- Moves-forward 👍</b>
+@endmindmap
