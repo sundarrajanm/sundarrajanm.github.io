@@ -1,11 +1,11 @@
 main:
-  - title: "About"
+  - title: "Me"
     url: /about/
-  - title: "Experiences"
+  - title: "Work"
     url: /experiences/
-  - title: "Academics"
-    url: /academics/
-  - title: "Posts"
+  - title: "Learning"
+    url: /learnings/
+  - title: "Thoughts"
     url: /posts/
   - title: "Categories"
     url: /categories/

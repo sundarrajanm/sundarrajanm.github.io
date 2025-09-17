@@ -1,12 +1,11 @@
 ---
-title: "Experiences"
 layout: collection
 permalink: /experiences/
 ---
 
 Below is a detailed summary of my professional experience across various organizations:
 
-{% assign sorted_experiences = site.experiences | sort: 'start_date' %}
+{% assign sorted_experiences = site.experiences | sort: 'start_date' | reverse %}
 
 <table>
 <tr>

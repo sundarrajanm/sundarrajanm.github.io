@@ -1,6 +1,5 @@
 ---
 permalink: /about/
-title: "About"
 ---
 
 _Seasoned technology leader_ with _over 20 years_ of experience architecting

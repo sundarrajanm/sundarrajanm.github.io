@@ -114,6 +114,14 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _learnings
+  - scope:
+      path: "_learnings"
+      type: learnings
+    values:
+      layout: single
+      author_profile: false
+      share: true      
 category_archive:
   type: liquid
   path: /categories/
@@ -122,5 +130,8 @@ tag_archive:
   path: /tags/
 collections:
   experiences:
+    output: true
+    permalink: /:collection/:path/
+  learnings:
     output: true
     permalink: /:collection/:path/
