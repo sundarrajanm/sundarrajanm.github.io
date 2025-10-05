@@ -3,11 +3,11 @@ main:
     url: /about/
   - title: "Work"
     url: /experiences/
-  - title: "Learning"
-    url: /learnings/
   - title: "Thoughts"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "Academics"
+    url: /learnings/

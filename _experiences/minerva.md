@@ -2,7 +2,7 @@
 title: "Minerva CQ"
 start_date: 2023-04-01
 layout: single
-location: Remote (USA)
+location: Remote (US)
 role: Senior Principal Engineer
 ---
 

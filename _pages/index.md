@@ -1,13 +1,16 @@
 ---
 layout: home
-title: "Framework to Build Value"
 permalink: /
 ---
 
-## Empathy, Connection, Growth!
-Welcome to my portfolio, where leadership, technology, and customer focus come together to scale startups with purpose and precision.
-
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/cto1.jpg' | relative_url }}" alt="Scaling Up Startup" style="max-width: 100%; height: auto;">
+<img src="{{ '/assets/images/leader.jpg' | relative_url }}" alt="Scaling Up Startup" style="max-width: 100%; height: auto;">
 </div>
 
+## Empathy. Connection. Growth.
+
+<div style="text-align: justify;">
+I believe true leadership begins with empathy — understanding the people we serve and the teams we work with.
+Building meaningful connections between customers, stakeholders and engineers creates alignment and shared purpose.
+And through growth — in people, ideas and technology — we turn intent into lasting impact.
+</div>
